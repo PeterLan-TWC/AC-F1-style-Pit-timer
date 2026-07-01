@@ -1,12 +1,12 @@
 # AC-F1-style-Pit-timer
-A F1 style Pit stop timer based on lua, modified based on NaimdaCook's Pitstop timer, paired with F1 2022 style font and backround.
+A F1 style Pit stop timer based on lua, modified based on NaimdaCook's Pitstop timer, paired with F1 2022 style font and background.
 
 # Install guide
 - Drag and drop into content manager, or 
-- manually navigate to steam/common/assettocorsa/apps/ and extract zip's content.
+- Manually navigate to steam/common/assettocorsa/apps/ and extract zip's content.
  
 # Current problems
-- originally intented to do a tyre type display, dosen't work.
+- Originally intented to do a tyre type display, dosen't work.
 - You tell me.
 
 # Credit
