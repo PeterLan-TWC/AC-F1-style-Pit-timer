@@ -9,5 +9,5 @@ A F1 style Pit stop timer based on lua, modified based on NaimdaCook's Pitstop t
 - originally intented to do a tyre type display, dosen't work.
 - You tell me.
 
-# credit
+# Credit
 - [Original Pitstop timer by NaimdaCook](https://github.com/NaimdaCook/Pitstop-Timer)
