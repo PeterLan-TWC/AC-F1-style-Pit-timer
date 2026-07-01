@@ -11,4 +11,3 @@ A F1 style Pit stop timer based on lua, modified based on NaimdaCook's Pitstop t
 
 # credit
 - [Original Pitstop timer by NaimdaCook](https://github.com/NaimdaCook/Pitstop-Timer)
-- 
